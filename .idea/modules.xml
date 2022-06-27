@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Java_GUI_RMI.iml" filepath="$PROJECT_DIR$/Java_GUI_RMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RMI_CHAT_ROOM.iml" filepath="$PROJECT_DIR$/RMI_CHAT_ROOM.iml" />
     </modules>
   </component>
 </project>
